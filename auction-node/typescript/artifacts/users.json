@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "userId": "Jim",
+      "email": "jim@gmail.com",
+      "balance": "100",
+      "phone": "9876543210",
+      "org": "org1"
+    },
+    {
+      "userId": "Barry",
+      "email": "barry@gmail.com",
+      "balance": "150",
+      "phone": "9826543210",
+      "org": "org1"
+    },
+    {
+      "userId": "Henry",
+      "email": "henry@gmail.com",
+      "balance": "130",
+      "phone": "9126543210",
+      "org": "org1"
+    },
+    {
+      "userId": "Patrick",
+      "email": "patrick@gmail.com",
+      "balance": "110",
+      "phone": "9116543210",
+      "org": "org1"
+    },
+    {
+      "userId": "auctionhouse",
+      "email": "auctionhouse@gmail.com",
+      "org": "org2"
+    }
+  ]
+}

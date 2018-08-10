@@ -1,0 +1,24 @@
+{
+    "host": "localhost",
+    "port": "4000",
+    "jwt_expiretime": "36000",
+    "channelName": "mychannel",
+    "CC_SRC_PATH": "../artifacts",
+    "eventWaitTime": "30000",
+    "admins": [
+        {
+            "username": "admin",
+            "secret": "adminpw"
+        }
+    ],
+    "peers": [
+        "peer0.org1.example.com",
+        "peer1.org1.example.com",
+        "peer0.org2.example.com",
+        "peer1.org2.example.com"
+    ],
+    "chaincodeName": "mycc",
+    "defaultUserName": "Jim",
+    "defaultOrgName": "Org1",
+    "tokenFilePath": "/home/ubuntu/user_token.json"
+}

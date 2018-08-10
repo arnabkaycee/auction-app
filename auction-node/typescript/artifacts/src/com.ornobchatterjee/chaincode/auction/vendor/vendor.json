@@ -1,0 +1,42 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "lW6aV+4P/AMyEJsc1Z6DpL/LtFc=",
+			"path": "com.ornobchatterjee/chaincode/auction",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "4/6Tn1WGU2OdA37XfEyfh0Qa97M=",
+			"path": "github.com/golang/protobuf",
+			"revision": "11bd559057bb9c65e24d1bd7f436d375323a8565",
+			"revisionTime": "2018-07-27T18:10:48Z"
+		},
+		{
+			"checksumSHA1": "qkkChqSeonfjUJ3DQrjDaIV9pi4=",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "11bd559057bb9c65e24d1bd7f436d375323a8565",
+			"revisionTime": "2018-07-27T18:10:48Z"
+		},
+		{
+			"checksumSHA1": "n+ZKx3gMoBi4t0fN84vzz0r2uCM=",
+			"path": "github.com/hyperledger/fabric/common/attrmgr",
+			"revision": "5a6e86267d8436be1c862b9d542e0c21f60fbe7b",
+			"revisionTime": "2018-07-15T11:12:37Z"
+		},
+		{
+			"checksumSHA1": "y8UGqcO/ZWyUDSrSy/ANg64vOvs=",
+			"path": "github.com/hyperledger/fabric/core/chaincode/lib/cid",
+			"revision": "5a6e86267d8436be1c862b9d542e0c21f60fbe7b",
+			"revisionTime": "2018-07-15T11:12:37Z"
+		},
+		{
+			"checksumSHA1": "d6BycwPpKXW09I/tXMqcItE8SA4=",
+			"path": "github.com/pkg/errors",
+			"revision": "816c9085562cd7ee03e7f8188a1cfd942858cded",
+			"revisionTime": "2018-03-11T21:45:15Z"
+		}
+	],
+	"rootPath": "com.ornobchatterjee/chaincode/auction"
+}
